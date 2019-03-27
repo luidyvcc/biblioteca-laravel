@@ -1,13 +1,15 @@
+
+![](public/images/books/genericBook,jpg)
 <h1 align="center">Biblioteca</h1>
 
 ## Como iniciar
 
-- Crie uma base de dados com o nome 'biblioteca' no MySQL.
-- Copie o arquivo ".env.example" com o nome ".env" (cp .env.example .env).
-- Rode o comando "composer install".
-- Rode o comando "php artisan migrate".
-- Rode o comando "php artisan serve".
-- Acesse via navegador o endereço "http://127.0.0.1:8000/".
+- Crie uma base de dados com o nome **biblioteca** no MySQL.
+- Copie o arquivo **.env.example** com o nome **.env** (cp .env.example .env).
+- Rode o comando **composer install**.
+- Rode o comando **php artisan migrate**.
+- Rode o comando **php artisan serve**.
+- Acesse via navegador o endereço http://127.0.0.1:8000/.
 
 ## Sobre
 
