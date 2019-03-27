@@ -14,4 +14,3 @@ Um sistema para controle de locação de livros na biblioteca, com controle de u
 - Data devolução é fixa em data aluguel + 7 dias.
 - Um livro pode conter mais de 1 autor.
 - Uma locação pode conter mais de 1 livro
-- Rotas de API (opcional).
