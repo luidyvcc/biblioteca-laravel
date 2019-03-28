@@ -1,7 +1,5 @@
 <p align="center"><img src="/public/images/readme/title-readme.png"></p>
 
-<h1 align="center">Biblioteca</h1>
-
 ## Como iniciar
 
 - Crie uma base de dados com o nome **biblioteca** no MySQL.
