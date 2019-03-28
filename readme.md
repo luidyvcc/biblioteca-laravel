@@ -1,5 +1,5 @@
+<p align="center"><img src="/public/images/readme/title-readme.png"></p>
 
-![](public/images/books/genericBook,jpg)
 <h1 align="center">Biblioteca</h1>
 
 ## Como iniciar
