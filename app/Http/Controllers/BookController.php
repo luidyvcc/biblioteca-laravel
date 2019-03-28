@@ -215,9 +215,8 @@ class BookController extends Controller
 
     public function openCart()
     {
-        // @forelse expect an empty array , not a null
-        $books_cart = [];
-        $authors = [];
+        $books_cart = null;
+        $authors = null;
 
         $title = "Reservas para emprestimo";
 
