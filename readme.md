@@ -1,4 +1,4 @@
-<p align="center"><img src="/public/images/readme/title-readme.png"></p>
+<p align="center"><img width="470" src="/public/images/readme/title-readme.png"></p>
 
 ## Como iniciar
 
